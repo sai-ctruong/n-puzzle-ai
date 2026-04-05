@@ -75,19 +75,11 @@ N-Puzzle AI Game là một ứng dụng giải đố hiện đại được phá
 
 ### 🎥 Video demo
 
-<!-- Thay thế đường dẫn bên dưới bằng đường dẫn file MP4 của bạn -->
-
-https://github.com/user-attachments/assets/your-video-file.mp4
-
-*Hoặc nhúng trực tiếp file MP4:*
-
 <div align="center">
   <video src="./videos/Captures/demo.mp4" controls width="800">
     Your browser does not support the video tag.
   </video>
 </div>
-
-*Lưu ý: Nếu video không hiển thị trực tiếp, hãy upload lên GitHub Releases hoặc sử dụng link raw từ repository.*
 
 
 
