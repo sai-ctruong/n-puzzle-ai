@@ -76,8 +76,8 @@ N-Puzzle AI Game là một ứng dụng giải đố hiện đại được phá
 ### 🎥 Video demo
 
 <div align="center">
-  <video src="./videos/Captures/demo.mp4" controls width="800">
-    Your browser does not support the video tag.
+  <video src="C:\Users\PC\Videos\Captures\demo.mp4" width="100%" controls>
+    Trình duyệt của bạn không hỗ trợ thẻ video.
   </video>
 </div>
 
@@ -361,8 +361,7 @@ Dự án này được phát hành dưới giấy phép **Non-Commercial License
 
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@sai-ctruong](https://github.com/sai-ctruong)
 
 ---
 
@@ -374,20 +373,11 @@ Dự án này được phát hành dưới giấy phép **Non-Commercial License
 
 ---
 
-## 📞 Liên hệ
-
-Nếu bạn có câu hỏi hoặc gặp vấn đề, vui lòng:
-
-- Mở [Issue](https://github.com/your-username/n-puzzle-ai/issues)
-- Gửi email: your.email@example.com
-- Tham gia [Discussions](https://github.com/your-username/n-puzzle-ai/discussions)
-
----
 
 <div align="center">
 
 **⭐ Nếu bạn thấy dự án hữu ích, hãy cho một ngôi sao! ⭐**
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Pham Cong Truong](https://github.com/sai-ctruong)
 
 </div>
