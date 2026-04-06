@@ -71,8 +71,9 @@ N-Puzzle AI Game là một ứng dụng giải đố hiện đại được phá
 ### � Giao diện chính
 
 <!-- Thay thế đường dẫn bên dưới bằng link ảnh của bạn -->
-![Giao diện chính](![alt text](image.png))
+![Giao diện chính](![alt text](image.png)
 
+<!--
 ### 🎥 Video demo
 
 <div align="center">
@@ -81,7 +82,7 @@ N-Puzzle AI Game là một ứng dụng giải đố hiện đại được phá
   </video>
 </div>
 
-
+-->
 
 ---
 
